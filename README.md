@@ -25,16 +25,14 @@ i)  Identify a control group which in that case could be website sessions from a
 ii) Using historical data from our advertising region, construct a model that predicts what would have happened in our advertising region during the campaign period if no action was taken. This is called the counterfactual
 iii) Compare this counterfactural prediction with the actual number of website sessions to calculate the actual uplift attributable to our TV commercial.
 
-## Plot the output:
+### Plot the output:
 
 ![](out1.JPG)
 
+### outpt result :
+i) The ‘original’ facet shows the actual website visits in the black solid line and predicted values without marketing intervention in the blue dashed line. The period of intervention is shown as vertical dashed lines. The confidence intervals is shaded in blue.
 
+ii) The second, ‘pointwise’ graph basically shows the difference between the actual values and the predicted values.
 
-
-
-
-
-
-
+iii) The third, ‘cumulative’ graph shows the summed effect of the marketing intervention after accumulating the differences caused by the marketing activity since the start date of the intervention.
 
