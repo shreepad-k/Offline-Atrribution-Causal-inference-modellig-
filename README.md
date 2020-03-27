@@ -44,5 +44,5 @@ iii) The third, ‘cumulative’ graph shows the summed effect of the marketing 
 We can see the estimate effect size is 9.91 extra sessions per day, very close to the +10 we injected in our made-up example
 [summary(impact, "report")]
 
-![](analysis.JPG)
+![](analyisis.JPG)
 
