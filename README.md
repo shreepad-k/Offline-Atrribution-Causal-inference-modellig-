@@ -21,8 +21,10 @@ You run a business that sells widgets. Throughout the year your product demand a
 
 Causal Inference Modelling
 The solution uses a three step process:
-i)  Identify a control group which in that case could be website sessions from another unaffected region
+i)  Identify a control group which in that case could be website sessions from another unaffected region.
+
 ii) Using historical data from our advertising region, construct a model that predicts what would have happened in our advertising region during the campaign period if no action was taken. This is called the counterfactual
+
 iii) Compare this counterfactural prediction with the actual number of website sessions to calculate the actual uplift attributable to our TV commercial.
 
 ### Plot the output:
