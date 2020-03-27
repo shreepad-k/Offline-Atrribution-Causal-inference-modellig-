@@ -38,3 +38,11 @@ ii) The second, ‘pointwise’ graph basically shows the difference between the
 
 iii) The third, ‘cumulative’ graph shows the summed effect of the marketing intervention after accumulating the differences caused by the marketing activity since the start date of the intervention.
 
+
+#### We can also generate a written analysis report
+
+We can see the estimate effect size is 9.91 extra sessions per day, very close to the +10 we injected in our made-up example
+[summary(impact, "report")]
+
+![](analysis.JPG)
+
